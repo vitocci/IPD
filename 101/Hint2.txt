@@ -1,0 +1,11 @@
+O código
+
+msg = 'texto1'
+print(f'texto, {msg}')
+
+gera
+
+texto, texto1
+
+Use esta dica em combinação com a primeira, adaptando o código
+para o que se pede no exercício.

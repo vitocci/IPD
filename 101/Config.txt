@@ -1,0 +1,10 @@
+Obtendo entrada do usuário a partir do teclado
+1
+Elabore um programa que peça ao usuário para digitar
+o seu nome e, em seguida, faça o programa escrever na 
+tela uma mensagem de boas-vindas. Veja exemplo abaixo.
+
+—————————————————
+Digite o seu nome: Vitor
+Seja bem-vindo, Vitor!
+—————————————————

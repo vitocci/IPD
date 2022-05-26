@@ -1,0 +1,7 @@
+O comando
+
+input('mensagem')
+
+exibe na tela o texto 'mensagem' e a execução do programa é interrompida
+até que o usuário digite algo pelo teclado e aperte ENTER. O conteúdo
+digitado pelo usuário é convertido para string e retornado.
